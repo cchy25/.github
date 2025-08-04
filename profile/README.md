@@ -1,4 +1,5 @@
 # Goorm DEEPDIVE HACKERTHON 2nd
+25.08.02 - 25.08.03
 
 Team.5 청청해요(cchy) Qstart
 
